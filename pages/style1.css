@@ -59,12 +59,12 @@ nav button{
   /* height: 10vmin; */
   /* border-radius: 50%; */
 
-nav button:hover{
-  background-color: rgb(228, 62, 250);
-  color: black;
-  cursor: pointer;
-  border-bottom: solid 2px slateblue;
-}
+  nav button:hover{
+    background-color: rgb(228, 62, 250);
+    color: rgb(99, 252, 85);
+    cursor: pointer;
+    border-bottom: solid 2px rgb(99, 252, 85);
+  }
 
 
 .Main-container {
